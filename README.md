@@ -13,5 +13,8 @@ This project provides a simple GUI application to print PDF files using Python. 
 
    ```bash
    pip install -r requirements.txt
+4. Double click the .py file and thats it! The GUI should pop up.
+5. Choose a folder that contains all the files you want to print.
+6. Hit PRINT and DONE! 
 
    
